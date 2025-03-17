@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.1">
+  <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6e0c8c40b5770093-72" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=194;tabHeight=22;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="326.5" y="114.5" width="733.5" height="555.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6e0c8c40b5770093-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="465.5" y="170" width="164.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="6e0c8c40b5770093-4" value="Gerenciamento&lt;div&gt;de agendamento&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=50;tabHeight=17;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=light-dark(#99CCFF,#EDEDED);" vertex="1" parent="6e0c8c40b5770093-6">
+          <mxGeometry x="-75.92" y="-10" width="240.42" height="117.69" as="geometry" />
+        </mxCell>
+        <mxCell id="6e0c8c40b5770093-7" value="" style="group;fillColor=none;strokeColor=#6c8ebf;gradientColor=none;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="717" y="160" width="220" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="6e0c8c40b5770093-8" value="Gerenciamento&lt;div&gt;de Usuario&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=50;tabHeight=17;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;gradientColor=light-dark(#99CCFF,#EDEDED);" vertex="1" parent="6e0c8c40b5770093-7">
+          <mxGeometry width="220.00000000000003" height="120.23668639053253" as="geometry" />
+        </mxCell>
+        <mxCell id="6e0c8c40b5770093-33" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=123;tabHeight=24;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=10;align=center;gradientColor=light-dark(#99CCFF,#EDEDED);" vertex="1" parent="1">
+          <mxGeometry x="460" y="369.5" width="420" height="265" as="geometry" />
+        </mxCell>
+        <mxCell id="6e0c8c40b5770093-43" value="Serviços" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=50;tabHeight=17;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=10;align=center;gradientColor=light-dark(#99CCFF,#EDEDED);" vertex="1" parent="1">
+          <mxGeometry x="521.5" y="420" width="135.5" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6e0c8c40b5770093-73" value="&amp;lt;&amp;lt;APP Agendamento&amp;gt;&amp;gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=10;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="114.5" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7kP_midGCZN3tTnBOdYV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.51;entryY=0.096;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="6e0c8c40b5770093-4" target="6e0c8c40b5770093-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7kP_midGCZN3tTnBOdYV-2" value="Funcionarios" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=50;tabHeight=17;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=10;align=center;gradientColor=light-dark(#99CCFF,#EDEDED);" vertex="1" parent="1">
+          <mxGeometry x="689" y="425.75" width="135.5" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7kP_midGCZN3tTnBOdYV-3" value="Notificacoes" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=50;tabHeight=17;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=10;align=center;gradientColor=light-dark(#99CCFF,#EDEDED);" vertex="1" parent="1">
+          <mxGeometry x="689" y="517.75" width="135.5" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7kP_midGCZN3tTnBOdYV-4" value="Relatorio&amp;nbsp;&lt;div&gt;e Analise&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=50;tabHeight=17;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=10;align=center;gradientColor=light-dark(#99CCFF,#EDEDED);" vertex="1" parent="1">
+          <mxGeometry x="521.5" y="517.75" width="135.5" height="84.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
