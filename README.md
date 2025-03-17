@@ -24,7 +24,7 @@ Sites para visualizar os gráficos:
 
 <div align="center">
 
-  <a href="https://www.figma.com/slides/8JVLSRx9sW5AbMAmgy1OMh/Bem-Agendado?node-id=4-181&t=jDamkgS05hNPeylZ-1" target="_blank">
+  <a href="https://www.figma.com/deck/8JVLSRx9sW5AbMAmgy1OMh/Bem-Agendado?node-id=4-181&t=Ad8k7JGUwH26gGaT-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1" target="_blank">
     <img src="https://th.bing.com/th/id/OIP.LkWZKkAwJnumGjsycV4uJwHaFj?rs=1&pid=ImgDetMain" alt="Slide Trabalho" height="150" width="230">
   </a>
 
