@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0" version="26.1.1">
+  <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6e0c8c40b5770093-72" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=194;tabHeight=22;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="326.5" y="114.5" width="663.5" height="835.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6e0c8c40b5770093-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="465.5" y="170" width="164.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="6e0c8c40b5770093-4" value="Gerenciamento&lt;div&gt;de agendamento&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=50;tabHeight=17;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=light-dark(#99CCFF,#EDEDED);" vertex="1" parent="6e0c8c40b5770093-6">
+          <mxGeometry x="-75.92" y="-10" width="240.42" height="117.69" as="geometry" />
+        </mxCell>
+        <mxCell id="6e0c8c40b5770093-7" value="" style="group;fillColor=none;strokeColor=#6c8ebf;gradientColor=none;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="717" y="160" width="220" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="6e0c8c40b5770093-8" value="Gerenciamento&lt;div&gt;de Usuario&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=50;tabHeight=17;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;gradientColor=light-dark(#99CCFF,#EDEDED);" vertex="1" parent="6e0c8c40b5770093-7">
+          <mxGeometry width="220.00000000000003" height="120.23668639053253" as="geometry" />
+        </mxCell>
+        <mxCell id="6e0c8c40b5770093-33" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=123;tabHeight=24;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=10;align=center;gradientColor=light-dark(#99CCFF,#EDEDED);" vertex="1" parent="1">
+          <mxGeometry x="389.58" y="369.5" width="380.42" height="540.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6e0c8c40b5770093-43" value="Serviços" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=50;tabHeight=17;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=10;align=center;gradientColor=light-dark(#99CCFF,#EDEDED);" vertex="1" parent="1">
+          <mxGeometry x="420" y="415" width="135.5" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6e0c8c40b5770093-73" value="&amp;lt;&amp;lt;APP Agendamento&amp;gt;&amp;gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=10;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="114.5" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7kP_midGCZN3tTnBOdYV-2" value="Funcionarios" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=50;tabHeight=17;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=10;align=center;gradientColor=light-dark(#99CCFF,#EDEDED);" vertex="1" parent="1">
+          <mxGeometry x="610" y="425.75" width="135.5" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7kP_midGCZN3tTnBOdYV-3" value="Notificacoes" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=50;tabHeight=17;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=10;align=center;gradientColor=light-dark(#99CCFF,#EDEDED);" vertex="1" parent="1">
+          <mxGeometry x="610" y="532.5" width="135.5" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7kP_midGCZN3tTnBOdYV-4" value="Relatorio&amp;nbsp;&lt;div&gt;e Analise&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=50;tabHeight=17;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#6C8EBF;strokeWidth=1;fillColor=#DAE8FC;fontFamily=Verdana;fontSize=10;align=center;gradientColor=light-dark(#99CCFF,#EDEDED);" vertex="1" parent="1">
+          <mxGeometry x="420" y="532.5" width="135.5" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jpQeD4LMIoOpaBO-k5PO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=376.5;entryDy=24;entryPerimeter=0;" edge="1" parent="1" source="6e0c8c40b5770093-4" target="6e0c8c40b5770093-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jpQeD4LMIoOpaBO-k5PO-10" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=80;tabHeight=20;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;fillColor=light-dark(#1D293B,#1D293B);strokeColor=light-dark(#6C8EBF,#6C8EBF);gradientColor=light-dark(#99CCFF,#EDEDED);" vertex="1" parent="1">
+          <mxGeometry x="420" y="670" width="330" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="jpQeD4LMIoOpaBO-k5PO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=155;entryDy=20;entryPerimeter=0;" edge="1" parent="1" source="7kP_midGCZN3tTnBOdYV-4" target="jpQeD4LMIoOpaBO-k5PO-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jpQeD4LMIoOpaBO-k5PO-13" value="Relatorio de Agendamento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#1D293B);" vertex="1" parent="1">
+          <mxGeometry x="428" y="700" width="82" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jpQeD4LMIoOpaBO-k5PO-14" value="Relatorio de Cancelamento&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Relatorio%20Agendamento%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3Dlight-dark(%23FFFFFF%2C%231D293B)%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22428%22%20y%3D%22700%22%20width%3D%2282%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#1D293B);" vertex="1" parent="1">
+          <mxGeometry x="428" y="750" width="82" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jpQeD4LMIoOpaBO-k5PO-15" value="Relatorio de Conclusão&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Relatorio%20de%20Cancelamento%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgba(0%2C%200%2C%200%2C%200)%3B%20font-family%3A%20monospace%3B%20font-size%3A%200px%3B%20text-align%3A%20start%3B%20text-wrap-mode%3A%20nowrap%3B%26quot%3B%26gt%3B%253CmxGraphModel%253E%253Croot%253E%253CmxCell%2520id%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25221%2522%2520parent%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25222%2522%2520value%253D%2522Relatorio%2520Agendamento%2522%2520style%253D%2522rounded%253D1%253BwhiteSpace%253Dwrap%253Bhtml%253D1%253BfillColor%253Dlight-dark(%2523FFFFFF%252C%25231D293B)%253B%2522%2520vertex%253D%25221%2522%2520parent%253D%25221%2522%253E%253CmxGeometry%2520x%253D%2522428%2522%2520y%253D%2522700%2522%2520width%253D%252282%2522%2520height%253D%252240%2522%2520as%253D%2522geometry%2522%252F%253E%253C%252FmxCell%253E%253C%252Froot%253E%253C%252FmxGraphModel%253E%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3Dlight-dark(%23FFFFFF%2C%231D293B)%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22428%22%20y%3D%22750%22%20width%3D%2282%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Relatorio%20Agendamento%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3Dlight-dark(%23FFFFFF%2C%231D293B)%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22428%22%20y%3D%22700%22%20width%3D%2282%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#1D293B);" vertex="1" parent="1">
+          <mxGeometry x="428" y="800" width="82" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jpQeD4LMIoOpaBO-k5PO-16" value="Relatorio de Faturamento&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Relatorio%20de%20Cancelamento%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgba(0%2C%200%2C%200%2C%200)%3B%20font-family%3A%20monospace%3B%20font-size%3A%200px%3B%20text-align%3A%20start%3B%20text-wrap-mode%3A%20nowrap%3B%26quot%3B%26gt%3B%253CmxGraphModel%253E%253Croot%253E%253CmxCell%2520id%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25221%2522%2520parent%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25222%2522%2520value%253D%2522Relatorio%2520Agendamento%2522%2520style%253D%2522rounded%253D1%253BwhiteSpace%253Dwrap%253Bhtml%253D1%253BfillColor%253Dlight-dark(%2523FFFFFF%252C%25231D293B)%253B%2522%2520vertex%253D%25221%2522%2520parent%253D%25221%2522%253E%253CmxGeometry%2520x%253D%2522428%2522%2520y%253D%2522700%2522%2520width%253D%252282%2522%2520height%253D%252240%2522%2520as%253D%2522geometry%2522%252F%253E%253C%252FmxCell%253E%253C%252Froot%253E%253C%252FmxGraphModel%253E%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3Dlight-dark(%23FFFFFF%2C%231D293B)%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22428%22%20y%3D%22750%22%20width%3D%2282%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Relatorio%20Agendamento%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3Dlight-dark(%23FFFFFF%2C%231D293B)%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22428%22%20y%3D%22700%22%20width%3D%2282%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#1D293B);" vertex="1" parent="1">
+          <mxGeometry x="428" y="850" width="82" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jpQeD4LMIoOpaBO-k5PO-17" value="Analise de Disponibilidade" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#1D293B);" vertex="1" parent="1">
+          <mxGeometry x="540" y="700" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jpQeD4LMIoOpaBO-k5PO-18" value="Analise de Desempenho dos Profissionais" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#1D293B);" vertex="1" parent="1">
+          <mxGeometry x="540" y="750" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jpQeD4LMIoOpaBO-k5PO-20" value="Analise de Tendecias a Agendametos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#1D293B);" vertex="1" parent="1">
+          <mxGeometry x="540" y="820" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jpQeD4LMIoOpaBO-k5PO-21" value="Analise de Satisfação ao Cliente" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#1D293B);" vertex="1" parent="1">
+          <mxGeometry x="640" y="755" width="90" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
