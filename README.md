@@ -12,7 +12,7 @@ Marcos Vinicius Ramos Xistus<br>
 Leoanardo Ezequiel<br>
 Lucas<br>
 
-site para visualizar os gráficos:
+Sites para visualizar os gráficos:
 
 <h2>Diagrama de Classe:</h2>
 <a href="https://www.yworks.com/yed-live/" target="_blank">YED-LIVE</a><br>
