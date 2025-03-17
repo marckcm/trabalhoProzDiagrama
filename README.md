@@ -10,7 +10,7 @@ Professor: João Paulo
 Marcelo de Castro Moreira<br>
 Marcos Vinicius Ramos Xistus<br>
 Leoanardo Ezequiel<br>
-Lucas<br>
+Lucas Valério Oliveira Lawall<br>
 
 Sites para visualizar os gráficos:
 
