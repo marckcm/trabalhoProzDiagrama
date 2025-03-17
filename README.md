@@ -1,6 +1,6 @@
 # trabalhoProzDiagrama
 
-<h1>Trabalho da disciplina de Analise e Projeto em sistema</h1>
+<h1>Trabalho da Disciplina de Analise e Projeto em Sistema</h1>
 
 Professor: João Paulo
 
